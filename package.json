@@ -1,6 +1,6 @@
 {
   "name": "@jabatronic/react-ts-lib-template",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A test component library for React",
   "scripts": {
     "rollup": "rollup -c"
